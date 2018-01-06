@@ -1,6 +1,6 @@
 I create this simple project to check if different versions of evaluation codes generate identical results, for person re-identification. So it's just a test case for evaluation codes.
 
-Here I compare the results by @Cysu and @zhunzhong07.
+Here I compare the results by [Tong Xiao](https://github.com/Cysu/open-reid) and [Zhun Zhong](https://github.com/zhunzhong07/person-re-ranking).
 
 # Files
 
